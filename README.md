@@ -1,0 +1,1 @@
+# ShowJumping-Competition-Allocator
